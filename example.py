@@ -7,7 +7,7 @@ yakker = pyak.Yakker()
 
 print "Registered new user with id %s" % yakker.id
 
-ut = pyak.Location("35.943356", "-83.938699")
+ut = pyak.Location("30.271542", "-81.507936")
 
 yakker.update_location(ut)
 
